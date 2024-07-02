@@ -5,3 +5,11 @@ numpy
 textsearch
 numpy
 requests
+matplotlib
+bokeh
+pandas_bokeh
+pyvis
+treelib
+textsearch
+ipywidgets
+deep_translator
